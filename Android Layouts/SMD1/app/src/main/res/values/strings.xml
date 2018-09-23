@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">l15-4077</string>
+    <string name="termAndCondition">I agree to terms and conditions></string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="gender">Gender</string>
+    <string name="notChecked">Please check the terms and conditions to register</string>
+</resources>
